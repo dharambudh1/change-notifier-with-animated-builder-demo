@@ -1,16 +1,10 @@
-# change_notifier_demo
+# Change Notifier with Animated Builder Demo
 
-A new Flutter project.
+## How it works:
 
-## Getting Started
+The ChangeNotifier and AnimatedBuilder allow to selectively rebuild individual widgets for performance. Use fields to contain data defining them in the ChangeNotifier. Use methods to modify data and call the notifyListeners() method. Use the AnimatedBuilder widget in the widget tree to rebuild widgets selectively if the data changed.
 
-This project is a starting point for a Flutter application.
+To learn more, visit: [https://docs.flutter.dev/data-and-backend/state-mgmt/simple#changenotifier](https://docs.flutter.dev/data-and-backend/state-mgmt/simple#changenotifier)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Preview
+![alt text](https://i.postimg.cc/GhL20qBp/imgonline-com-ua-twotoone-03ns-Jl-W6y-KP.png "img")
